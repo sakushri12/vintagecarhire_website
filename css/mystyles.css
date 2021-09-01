@@ -1,0 +1,23 @@
+.contactus{
+    border:1px solid gray ;
+    text-align:center;
+    color:rgba(151, 208, 223, 0.938);
+   height:400px;
+   width:350px;
+   color:black;
+   background-color: ghostwhite;
+}
+.form1{;
+    background-color:rgb(135, 187, 189) ;
+}
+.vs{
+    color:rgb(80, 191, 255);
+    font-size: 2 em;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navcom{
+    font-weight: bold;
+    font-family: serif;
+    color:black;
+}
